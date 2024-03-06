@@ -7,13 +7,13 @@ Encripta mensajes de forma segura.
 Desencripta mensajes previamente cifrados.
 Interfaz fácil de usar.
 # Capturas de Pantalla
-Diseño Responsivo Formato escritorio (768px)
+Diseño Responsivo Formato Desktop (1024 px)
 ![image](https://github.com/joserf42/Encriptador-2024/assets/107516670/0b7344d7-c048-4209-9f46-7f0d74a132f8)
 
-Diseño Responsivo Formato Table (768px)
+Diseño Responsivo Formato Tablet (768 px)
 ![image](https://github.com/joserf42/Encriptador-2024/assets/107516670/38d0e0c8-a634-4980-ba90-6eb5732d8e82)
 
-Diseño Responsivo Formato celular (375px)
+Diseño Responsivo Formato Mobile (375 px)
 ![image](https://github.com/joserf42/Encriptador-2024/assets/107516670/6fc59da4-5dfc-4c43-aceb-b4502c41409a)
 
 
