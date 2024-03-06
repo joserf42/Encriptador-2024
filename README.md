@@ -18,7 +18,6 @@ Diseño Responsivo Formato Mobile (375 px)
 
 
 # Contacto
-Email: jdrojas1828@gmail.com
-LinkeDin: linkedin.com/in/josé-daniel-rojas-sgsi/  
+<em>Email: jdrojas1828@gmail.com  LinkeDin: https://linkedin.com/in/josé-daniel-rojas-sgsi/</em>  
 
 ¡Gracias por utilizar el Encriptador de Alura Latam!
